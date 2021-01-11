@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #Author FuzzLightyear - Medusa
 #Note: Many functions and very scattered; meant to mess around with.
+#Credit for inspiring coding the math used in game1 and game2 goes to Author Thomas Taylor
 
 #import turtlepy
 import game1 
