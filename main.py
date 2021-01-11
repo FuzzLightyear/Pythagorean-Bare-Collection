@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Author FuzzLightyear - Medusa 
 
 #import turtlepy
 import game1 
