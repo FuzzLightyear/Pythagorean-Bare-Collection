@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-#Author FuzzLightyear - Medusa 
+#Author FuzzLightyear - Medusa
+#Note: Many functions and very scattered; meant to mess around with
 
 #import turtlepy
 import game1 
