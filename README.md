@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FuzzLightyear/Pythagorean-Bare-Collection/master)
 # Pythagorean-Bare-Collection
 Messing around with Pythagorean ratios. The Tetractys is one of the wonders of Pythagoras. It represents the combination of the elements at creation, and how the words of God in the beginning folded and expanded inwards in the musical scale. This scale is the electromagnetic spectrum, and in these programs I am mostly exploring the musical ratios. Something very cool I realized, is that, on string instruments, the longer and thicker the string, the lower the note. I was looking at a harp tuning device which uses the Pythagorean ratios on a string of length 120mm. The 7 white notes (and the sharps/flats) of the root (lowest octave on string) all exist as a fraction of the maximum length (120) so that C = 1*max, D = 8/9*max etc. These ratios are all greater than 1/2 of max (120). 
 
